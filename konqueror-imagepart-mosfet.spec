@@ -15,8 +15,8 @@ BuildRequires:	kdelibs-devel >= 3.1
 BuildRequires:	qt-devel >= 3.1
 BuildRequires:	libtool
 BuildRequires:	libltdl-devel
-Requires:  	kdelibs >= 3.1
-Requires:       qt >= 3.1
+Requires:	kdelibs >= 3.1
+Requires:	qt >= 3.1
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_htmldir	/usr/share/doc/kde/HTML

@@ -1,6 +1,6 @@
 %define		_name	mosfet-imagepart
 Summary:	pixieplus - image viewer for KDE
-Summary(pl.UTF-8):   pixieplus - przeglądarka obrazków dla KDE
+Summary(pl.UTF-8):	pixieplus - przeglądarka obrazków dla KDE
 Name:		konqueror-imagepart-mosfet
 Version:	0.2.1
 Release:	1

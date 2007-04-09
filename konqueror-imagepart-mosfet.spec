@@ -12,7 +12,7 @@ URL:		http://www.mosfet.org/%{_name}/
 BuildRequires:	automake
 BuildRequires:	autoconf
 BuildRequires:	kdelibs-devel >= 3.1
-BuildRequires:	qt-devel >= 3.1
+BuildRequires:	qt-devel >= 6:3.1
 BuildRequires:	libtool
 BuildRequires:	libltdl-devel
 Requires:	kdelibs >= 3.1

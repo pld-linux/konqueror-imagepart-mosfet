@@ -8,7 +8,7 @@ License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	http://www.mosfet.org/%{_name}/%{_name}-%{version}.tar.gz
 # Source0-md5:	bad62081abec0d1279ac2577fdc95a61
-URL:		http://www.mosfet.org/%{_name}/
+URL:		http://www.mosfet.org/mosfet-imagepart/
 BuildRequires:	automake
 BuildRequires:	autoconf
 BuildRequires:	kdelibs-devel >= 3.1
